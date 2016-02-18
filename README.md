@@ -1,2 +1,2 @@
-# lu-repo
-Lu's repository
+# This is my readme file
+Hello Cloud Guru!
