@@ -3,13 +3,9 @@ Hello Cloud Guru!
 This is my first change.
 This is my 2nd change.
 Hello World!
-
-<<<<<<< HEAD
 Conflict testing ...
-=======
 Merge testing ...
->>>>>>> 114c16707dcd6fed84114d9a04a826773862a9b5
-
+This ia a conflit test. 
 Git is very good at merging code. Merges are local, fast, and flexible. Naturally every time one merges content from different branches conflicts can and will happen. Often solving a conflict is as simple as knowing and choosing the leading change. Sometimes resolving a conflict requires more work.
 
 Every developer has a different preference in how they solve conflicts. So a while ago fellow writer Dan Stevens used Questions for Confluence internally to ask how people did it.
